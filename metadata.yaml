@@ -1,0 +1,54 @@
+_repo: Aventures-Extraordinaires-d-un-Savant-Russe--III.-Les-Plan-tes-G-antes-et-les-Com-tes_22078
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Henriot
+    aliases:
+    - Maigrot, Henry
+    - Maigrot, Henri
+    birthdate: 1857
+    deathdate: 1933
+    gutenberg_agent_id: '26820'
+    url: http://www.gutenberg.org/2009/agents/26820
+    wikipedia: http://fr.wikipedia.org/wiki/Henriot
+  - agent_name: Cayron, J.
+    gutenberg_agent_id: '25083'
+    url: http://www.gutenberg.org/2009/agents/25083
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Graffigny, H. de (Henry)
+    aliases:
+    - Graffigny, Henri de
+    - Graffigny, Henry de
+    - Marquis, Raoul
+    birthdate: 1863
+    deathdate: 1934
+    gutenberg_agent_id: '7542'
+    url: http://www.gutenberg.org/2009/agents/7542
+  - agent_name: Le Faure, Georges
+    alias: Faure, Georges Le
+    birthdate: 1856
+    deathdate: 1953
+    gutenberg_agent_id: '8850'
+    url: http://www.gutenberg.org/2009/agents/8850
+    wikipedia: http://fr.wikipedia.org/wiki/Georges_Le_Faure
+description: ''
+gutenberg_bookshelf: FR Science fiction
+gutenberg_issued: '2007-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22078'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PQ'
+- !lcsh 'Interplanetary voyages -- Fiction'
+title: Aventures Extraordinaires d'un Savant Russe; III. Les Planètes Géantes et les
+  Comètes
+url: http://www.gutenberg.org/ebooks/22078
